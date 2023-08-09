@@ -1,4 +1,13 @@
-### Hi there 👋
+# **Hi, this is Aldcuth**👋
+
+> I am new to coding and this is my first time making something digitally without any knowledge of this profession, doing a project with my friends for fun. I am tagging along hoping to learn something small nothing like what my friends are doing.
+
+- Gamer
+- Anestheologist Nurse
+- Fit
+- Zesty
+
+![Brew](https://user-images.githubusercontent.com/141295101/259291331-7b813ebb-07c3-43a2-8dc3-6c8e2289d666.png)
 
 <!--
 **Aldcuth/Aldcuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
