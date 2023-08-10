@@ -25,6 +25,12 @@
 
 <br />
 
+<p align='center'>
+<img src='Images/catcomputer.gif' width='600' height='300'>
+</p>
+
+<br />
+
 <b>Connect with me at:</b>
 <p><a href="https://www.youtube.com/channel/UCP7xVVzBqo2TzGojJ8cymLQ"><img alt='Youtube' src='Images/youtube-color.svg' width='50' height='50'></a></p>
   
