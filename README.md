@@ -4,7 +4,7 @@
 </p>
 </h1>
 
-![](Aldcuth/filenameScreenshot%202023-07-20%20023458.png)  
+![](Images/Screenshot%202023-07-20%20023458.png)  
 
 > I am new to coding and this is my first time making something digitally without any knowledge of this profession, doing a project with my friends for fun. I am tagging along hoping to learn something small nothing like what my friends are doing.
 
