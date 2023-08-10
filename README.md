@@ -1,13 +1,17 @@
-# **Hi, this is Aldcuth**👋
+<h1>
+<p align="center">
+<b>Hi, this is Aldcuth👋</b>
+</p>
+</h1>
+
+![](Aldcuth/filenameScreenshot%202023-07-20%20023458.png)  
 
 > I am new to coding and this is my first time making something digitally without any knowledge of this profession, doing a project with my friends for fun. I am tagging along hoping to learn something small nothing like what my friends are doing.
 
-- Gamer
-- Anestheologist Nurse
+- Dream Big
 - Fit
-- Zesty
-
-![Brew](https://user-images.githubusercontent.com/141295101/259291331-7b813ebb-07c3-43a2-8dc3-6c8e2289d666.png)
+- <3
+- No Enemies
 
 <!--
 **Aldcuth/Aldcuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
