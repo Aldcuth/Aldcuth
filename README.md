@@ -26,10 +26,8 @@
 <br />
 
 <b>Connect with me at:</b>
-<p><a href="https://www.youtube.com/channel/Aldcuth">Visit me!<img alt='Youtube' src=</a></p>
+<p><a href="https://www.youtube.com/channel/Aldcuth"><img alt='Youtube' src='Images/youtube-color.svg' width='50' height='50'></a></p>
   
-[youtube]https://www.youtube.com/channel/Aldcuth
-
 
 <!--
 **Aldcuth/Aldcuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
