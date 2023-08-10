@@ -25,11 +25,10 @@
 
 <br />
 
-<p align="center">
-<img src='Images/catcomputer.gif' width='500' height='300'>
-</p>
-
 <b>Connect with me at:</b>
+<p><a href="https://www.youtube.com/channel/Aldcuth">Visit me!<img alt='Youtube' src=</a></p>
+  
+[youtube]https://www.youtube.com/channel/Aldcuth
 
 
 <!--
