@@ -4,6 +4,10 @@
 </p>
 </h1>
 
+<p align="center">
+<b><i>I am trying to become a Anestheologist Nurse and wealthy</i></b>
+</p>
+
 <img src='Images/Screenshot%202023-07-20%20023458.png' width='2500'>
 
 <!--
