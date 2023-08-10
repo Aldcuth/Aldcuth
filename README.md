@@ -14,6 +14,8 @@
 ![](Images/Screenshot%202023-07-20%20023458.png)
 -->
 
+<br />
+
 > I am new to coding and this is my first time making something digitally without any knowledge of this profession, doing a project with my friends for fun. I am tagging along hoping to learn something small nothing like what my friends are doing.
 
 - Dream Big
@@ -21,9 +23,14 @@
 - <3
 - No Enemies
 
+<br />
+
 <p align="center">
 <img src='Images/catcomputer.gif' width='500' height='300'>
 </p>
+
+<b>Connect with me at:</b>
+
 
 <!--
 **Aldcuth/Aldcuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
